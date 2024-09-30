@@ -1,3 +1,5 @@
+import numpy as np
+
 # 1. create an array of 10 zeros, 10 ones, and 10 fives.
 
 
